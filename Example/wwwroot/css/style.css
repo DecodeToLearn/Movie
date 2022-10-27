@@ -1,0 +1,8 @@
+﻿.footer {
+    background-color: #f5f5f5;
+}
+
+.c-detail-card {
+    height: 440px;
+    overflow-y: auto;
+}
