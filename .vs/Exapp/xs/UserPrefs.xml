@@ -1,4 +1,8 @@
-﻿<Properties StartupConfiguration="{AF77F686-FCF4-4552-A3CA-D0FD7DC9E419}|Default">
+﻿<Properties StartupConfiguration="{AF77F686-FCF4-4552-A3CA-D0FD7DC9E419}|Default" GitUserInfo="UsingGIT">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <Breakpoint file="/Users/yusufsengul/Projects/Exapp/Example/Controllers/MovieController.cs" relfile="Example/Controllers/MovieController.cs" line="28" column="1" />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.Workbench ActiveDocument="Example/Startup.cs">
     <Files>
       <File FileName="Example/Startup.cs" Line="23" Column="1" />
@@ -18,13 +22,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.Example PreferredExecutionTarget="/Applications/Firefox.app" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore>
-      <Breakpoint file="/Users/yusufsengul/Projects/Exapp/Example/Controllers/MovieController.cs" relfile="Example/Controllers/MovieController.cs" line="28" column="1" />
-    </BreakpointStore>
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>
