@@ -20,8 +20,6 @@ namespace Example
         {
             services.AddMvc(options => options.EnableEndpointRouting = false);
         }
-//test aref
-
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
             app.UseStaticFiles();
